@@ -1,0 +1,17 @@
+<html><body>
+	<marquee>O JOTA … FODA!!!!!!!!!!!</marquee>
+	<script language = "Javascript">
+		var nome
+		nome=prompt("Entrada de dados", "sdcscsdc");
+		window.alert("H·!"+nome+"  **  ");
+		document.write("Bl·Bl·Bl·Bl·Bl·Bl·Bl·Bl·Bl·   "+nome+nome+nome+"   Bl·Bl·Bl·Bl·Bl·Bl·Bl·Bl·<br>");
+		document.write("Bl·Bl·Bl·Bl·Bl·Bl·Bl·Bl·Bl·   "+nome+nome+nome+"   Bl·Bl·Bl·Bl·Bl·Bl·Bl·Bl·<br>");
+		document.write("Bl·Bl·Bl·Bl·Bl·Bl·Bl·Bl·Bl·   "+nome+nome+nome+"   Bl·Bl·Bl·Bl·Bl·Bl·Bl·Bl·<br>");
+		document.bgColor="black";
+		document.fgColor="white";
+		window.status=nome+nome+"  "+nome
+	</script>
+	<form>
+	<input type="radio" name="opt1" onclick="alert('VocÍ clicou no bot„o')">Clique na opÁ„o
+	</form>
+</body></html>
